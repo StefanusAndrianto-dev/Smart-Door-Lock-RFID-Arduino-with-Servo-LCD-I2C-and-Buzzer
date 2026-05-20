@@ -147,12 +147,6 @@ Smart-Door-Lock-RFID/
 
 ---
 
-# License
-
-This project is open-source and available under the MIT License.
-
----
-
 # Author
 
 Developed for embedded systems and IoT learning purposes using Arduino and RFID technology.
